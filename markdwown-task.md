@@ -3,6 +3,7 @@ Welcome to TreeLife, your guide to learning about the beauty, diversity,a nd imp
 ---
 ## About Us 
 At TreeLife, we're passionate about forests and green living.
+
 Our mission is to:
 - Educate people about the different types of trees.
 - Promote sustainable foresty.
